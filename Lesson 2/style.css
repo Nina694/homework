@@ -1,0 +1,29 @@
+div {
+    background: #ffd700;
+    color: #2b2b2b;
+    width: 600px;
+    height: 118px;
+}
+    .block1 {
+    color: #eeefe9;
+    background: none;
+}
+    .block2 {
+    background: #c7fda6;
+    width: 100px;
+    height: 100px;
+}
+    .block3 {
+    background: #e594d5;
+    color: black;
+    width: 300px;
+    height: 75px;
+}
+span {
+background: #ee2fc8;
+color: azure;
+}
+    .sp1{
+    background: none;
+    color: #e594d5;  
+    }
