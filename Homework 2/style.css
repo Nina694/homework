@@ -1,0 +1,24 @@
+.blok-1 {
+    background: rgb(13, 13, 13);
+    color: rgb(240, 236, 236);
+}
+
+.accent-text {
+    color: rgb(188, 70, 179);
+}
+
+.quad {
+    background: rgb(154, 48, 2);
+    width: 100px;
+    height: 100px;
+}
+
+.elements {
+    background-color: rgb(203, 29, 242);
+    width: 300px;
+}
+
+.element {
+    background: rgb(105, 56, 114);
+    color: rgb(240, 236, 236);
+}

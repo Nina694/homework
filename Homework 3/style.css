@@ -1,0 +1,22 @@
+header {
+  background: rgb(242, 170, 24);
+  height: 60px;
+}
+
+a {
+  color: rgb(15, 15, 15);
+}
+
+.quote {
+  background-color: rgb(246, 232, 125);
+}
+
+footer {
+  background: rgb(137, 37, 214);
+  color: rgb(244, 244, 242);
+  height: 300px;
+}
+
+footer a {
+  color: rgb(244, 244, 242);
+}
