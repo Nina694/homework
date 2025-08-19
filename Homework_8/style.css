@@ -1,0 +1,38 @@
+body {
+    font-family: "Montserrat";
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.inner {
+    display: flex;
+    position: relative;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background: #d54604;
+    border: 1px, solid, #000000;
+    border-radius: 50%;
+    top: auto;
+    left: auto;
+    right: 700px;
+    bottom: 150px;
+    position: fixed;
+}
+
+.rectangle {
+    width: 800px;
+    height: 100px;
+    background: #7f665b;
+    border: 1px, solid #000000;
+    border-radius: 20px;
+    top: auto;
+    left: 50%;
+    right: 50px;
+    bottom: 100px;
+    z-index: -1;
+    position: fixed;
+
+}

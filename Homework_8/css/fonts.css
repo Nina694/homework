@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Montserrat";
+    src:
+        local('Montserrat Light'),
+        local('Montserrat-Light'),
+        url('/Homework_8/font-family/Montserrat-Light.woff2') format('woff2'),
+        url('/Homework_8/font-family/Montserrat-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
